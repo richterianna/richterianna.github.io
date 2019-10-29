@@ -3,4 +3,4 @@
 # Ольга Карпович
 Мой первый опубликованный сайт
 
-[Урок 12](https://richterianna.github.io/lesson_12_1/"Моя готовая домашка")
+[Урок 12](https://richterianna.github.io/lesson_12_1/ "Моя готовая домашка")
